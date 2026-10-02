@@ -38,4 +38,4 @@ If you email us, we receive your email address and what you write. We use it onl
 
 **Changes.** If a future version changes how RTLy handles data (for example, by adding a connection to an online service), we'll update this policy and its effective date before that version is released, and say so in the release notes.
 
-**Contact.** Kitebyte · ah.sawahel+support@gmail.com
+**Contact.** Sawa · ah.sawahel+support@gmail.com

@@ -1,4 +1,4 @@
-# Kitebyte browser extensions
+# Sawa browser extensions
 
 Small, private browser tools. Contact: ah.sawahel+support@gmail.com
 
