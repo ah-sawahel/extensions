@@ -5,7 +5,7 @@ Applies to: the RTLy browser extension, version 1.0 and its 1.0.x updates.
 
 **Summary.** RTLy doesn't collect, transmit, sell or share personal data. It works entirely inside your browser and makes no network requests.
 
-**Page text.** RTLy runs only on the AI chat websites listed on its store page and in its menu (for example ChatGPT, Claude and Gemini). On those pages it reads the text of chat messages to tell whether each paragraph is written right-to-left (such as Arabic, Persian, Hebrew or Urdu) or left-to-right. It then sets each paragraph's direction and alignment. This happens inside your browser. The text isn't saved, logged or sent anywhere, and nobody, including us, can see it. RTLy doesn't read what you type in the message box; there, it only applies styling so that each line aligns with the language you type. RTLy can't run on any other website.
+**Page text.** RTLy runs only on the AI chat websites listed on its store page and in its menu (for example ChatGPT, Claude and Gemini). On those pages it reads the text of chat messages to tell whether each paragraph is written right-to-left (such as Arabic, Persian or Urdu) or left-to-right. It then sets each paragraph's direction and alignment. This happens inside your browser. The text isn't saved, logged or sent anywhere, and nobody, including us, can see it. RTLy doesn't read what you type in the message box; there, it only applies styling so that each line aligns with the language you type. RTLy can't run on any other website.
 
 **What RTLy stores.** Only your settings:
 - whether RTLy is on;
