@@ -1,4 +1,4 @@
-**Kwota Pro — Terms of Sale**
+# Kwota Pro: terms of sale and refunds
 
 Effective date: 16 November 2026
 

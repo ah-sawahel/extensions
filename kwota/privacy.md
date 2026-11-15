@@ -1,4 +1,4 @@
-**Kwota Privacy Policy**
+# Kwota Privacy Policy
 
 Effective date: 16 November 2026
 Applies to: the Kwota browser extension, version 1.0 and later.
